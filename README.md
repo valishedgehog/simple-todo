@@ -1,7 +1,7 @@
 # Simple todo app
 
 This is simple todo app build with React.js, GraphQL and Tachyons CSS library, deployed on heroku and hasura.
-It is a part of udemy course on React.js
+It is a part of udemy course on React.js. Written in ES6 JavaScript standart and in modern React.js using React Hooks.
 
 ## Installing
 
