@@ -17,6 +17,6 @@ Then paste your ```GraphQL API``` and ```Admin Secret``` in ```config.js``` file
 
 Finally, run
 ```bash
-npm install
-npm start
+yarn install
+yarn start
 ```
